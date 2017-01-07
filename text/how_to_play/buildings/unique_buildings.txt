@@ -1,0 +1,1 @@
+Unique buildings are a set of buildings which have a very powerful effect, however constructing them can be quite difficult. Each Unique Building can only be built once per game, meaning once a unique building has been constructed by a player, then no other player is permitted to start, continue, or finish working on said building.

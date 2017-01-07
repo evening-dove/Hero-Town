@@ -1,0 +1,1 @@
+The maximum amount that a Hero can like you. | If you have 45 favor with a hero, they will become your ally. | | Favor is represented using the red number at the top of the screen, next to the star icon.

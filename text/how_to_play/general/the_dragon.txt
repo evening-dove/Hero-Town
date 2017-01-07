@@ -1,0 +1,1 @@
+The Dragon is a powerful monster that appears at the very end of the game. Whenever he arrives, He will attack Towns at random in order to destroy them. The Heroes will try to stop him, but they can’t hold him off forever, eventually he will attack and destroy the Town with the lowest total Favour across all Heroes.

@@ -1,0 +1,1 @@
+Used to keep your citizens safe. | If your defence is lower than your population, you will risk losing 1 civilian each turn. | A Town gains +10 defence for every Hero currently visiting it. | | Defence is represented using the dark blue number at the top of the screen, next to the wall icon.

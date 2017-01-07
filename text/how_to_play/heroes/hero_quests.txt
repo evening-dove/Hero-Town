@@ -1,0 +1,1 @@
+A number of things can go wrong in this world, and Heroes help prevent them. However, if a Hero gets neglected by a Town for too long, then there is a chance that said Hero’s Hero Quest will activate. If this happens, the Town in question will have 10 turns to get that Hero to visit them. If the Town cannot accomplish this, they will lose part of their population.

@@ -1,0 +1,1 @@
+Refers to how quickly you can construct buildings. | Production is gained through a number of ways, including Building bonuses and having a higher population. | | Production is represented using the orange number at the top of the screen, next to the Hammer icon.

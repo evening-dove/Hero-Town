@@ -1,0 +1,1 @@
+Normally, once a building has been built, you cannot construct it again, however, buildings and actions which fall under the “Other” tab can be redone an unlimited number of time.

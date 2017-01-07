@@ -1,0 +1,1 @@
+Allows you to increase your population. | The population of a Town can not exceed the amount of Food it has. | | Food is represented using the dark green number at the top of the screen, next to the tomato icon.

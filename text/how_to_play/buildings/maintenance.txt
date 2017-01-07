@@ -1,0 +1,1 @@
+Most buildings have a maintenance cost, which is displayed in the top left corner of the screen when the player hovers over a building in the Buildings Menu. Maintenance refers to the cost in gold it will take to maintain a building every turn once it is completed. So if a player builds a building with a maintenance cost of 1, then their gold per turn will decrease by 1.

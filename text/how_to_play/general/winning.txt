@@ -1,0 +1,1 @@
+To win, a player must be the last town standing. To do this, they must have the highest total Favour across all Heroes.

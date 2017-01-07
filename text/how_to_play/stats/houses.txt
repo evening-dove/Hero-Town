@@ -1,0 +1,1 @@
+Allows you to have a higher population. | Your population can not exceed the amount of Houses you have in your Town. | | The number of houses a Town has is represented using the light-brown number at the top of the screen, next to the house icon.

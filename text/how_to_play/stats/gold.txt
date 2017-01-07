@@ -1,0 +1,1 @@
+Your current gold amount. Used to keep your town happy, and your buildings running. | | Gold is represented using the yellow number at the top of the screen, next to the gold coin icon.

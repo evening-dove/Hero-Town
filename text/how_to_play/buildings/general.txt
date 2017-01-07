@@ -1,0 +1,1 @@
+To progress in the game, a player must construct building, which will reward the player by increasing a variety of stats. Buildings can be selected by clicking on the Hammer in the bottom left corner of the screen. Some Buildings have unlock conditions that must be met prior to constructing them.
